@@ -1,1 +1,1 @@
-This is the README file of this project.
+This is the README file of this project (i.e., book management system).
